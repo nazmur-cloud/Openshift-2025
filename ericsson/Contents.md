@@ -15,3 +15,5 @@
 ## 5. Expose non-HTTP/SNI Applications
 
 ## 6. Enable Developer Self-Service
+
+![Kubernetes Logo](https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png)
