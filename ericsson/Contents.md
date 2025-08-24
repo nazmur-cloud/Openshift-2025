@@ -4,8 +4,7 @@
 
 ## 1. Declarative Resource Management
 
-### ✨ Key Benefits
-- 🔒 **Declarative Resource Management** – Segregate resources for different projects, teams, or environments.  
+ Segregate resources for different projects, teams, or environments.  
 
 ## 2. Deploy Packaged Applications
 
