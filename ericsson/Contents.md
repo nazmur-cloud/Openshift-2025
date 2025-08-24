@@ -17,3 +17,7 @@
 ## 6. Enable Developer Self-Service
 
 [GitHub](https://github.com) 
+
+
+> This is a blockquote.
+> Used for notes or tips.
