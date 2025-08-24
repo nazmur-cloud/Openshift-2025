@@ -31,10 +31,6 @@
 2. Second
 3. Third
 
-openshift-2025/
-│── manifests/        # YAML files for deployments, services, etc.
-│── charts/           # Helm charts
-│── docs/             # Documentation and notes
-│── README.md         # Project overview (this file)
+
 
 
