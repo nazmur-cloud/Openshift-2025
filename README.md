@@ -27,3 +27,12 @@ kubectl get namespaces
 # Delete a namespace
 kubectl delete namespace dev
 
+
+---
+
+✅ Now your README.md works as:  
+- 📘 **Documentation**  
+- 🗂️ **Study Tracker**  
+- 🔑 **Quick reference**  
+
+
