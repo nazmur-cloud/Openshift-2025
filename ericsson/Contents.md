@@ -1,6 +1,6 @@
 # Nazmur Study Guide 
 
-## 🌐 Namespace in Kubernetes
+## 1. Namespace in Kubernetes
 ## 🌐 Namespace in Kubernetes
 ## 🌐 Namespace in Kubernetes
 ## 🌐 Namespace in Kubernetes
