@@ -16,4 +16,4 @@
 
 ## 6. Enable Developer Self-Service
 
-![Kubernetes Logo](https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png)
+[GitHub](https://github.com) 
