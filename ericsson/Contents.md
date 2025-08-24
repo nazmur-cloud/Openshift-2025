@@ -21,3 +21,13 @@
 
 > This is a blockquote.
 > Used for notes or tips.
+
+- Item 1
+- Item 2
+  - Sub-item 2.1
+  - Sub-item 2.2
+
+1. First
+2. Second
+3. Third
+
